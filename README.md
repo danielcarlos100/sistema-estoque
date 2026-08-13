@@ -72,6 +72,20 @@ Encerra o programa através do comando `break`.
 
 ---
 
+## 🚀 Possíveis melhorias
+
+- Validar as entradas do usuário
+- Impedir o cadastro de produtos duplicados
+- Permitir alteração do preço dos produtos
+- Mostrar o valor total do estoque
+- Adicionar categorias aos produtos
+- Adicionar controle de entrada e saída de estoque
+- Salvar os produtos em arquivos `.txt` ou `.json`
+- Utilizar SQLite para armazenar os produtos
+- Criar uma interface gráfica com Tkinter
+
+---
+
 ## 👨‍💻 Autor
 
 **Daniel Carlos**
