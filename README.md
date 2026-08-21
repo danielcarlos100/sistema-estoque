@@ -1,4 +1,4 @@
-# 📦 Sistema de Estoque
+# Sistema de Estoque
 
 Sistema de gerenciamento de estoque desenvolvido em **Python**, criado com o objetivo de praticar conceitos fundamentais de programação e estruturas de dados.
 
@@ -6,7 +6,7 @@ O sistema permite cadastrar, listar, buscar, alterar a quantidade e remover prod
 
 ---
 
-## 📋 Sobre o Projeto
+##  Sobre o Projeto
 
 Este projeto foi desenvolvido como parte dos meus estudos de programação em Python.
 
@@ -25,7 +25,7 @@ O projeto funciona diretamente pelo terminal e possui um menu para facilitar a u
 
 ---
 
-## ⚙️ Funcionalidades
+##  Funcionalidades
 
 ### 1. Cadastrar Produto
 
@@ -57,7 +57,7 @@ Encerra o programa através do comando `break`.
 
 ---
 
-## 🧠 Conceitos utilizados
+##  Conceitos utilizados
 
 - Funções (`def`)
 - Listas
@@ -72,7 +72,7 @@ Encerra o programa através do comando `break`.
 
 ---
 
-## 🚀 Possíveis melhorias
+##  Possíveis melhorias
 
 - Validar as entradas do usuário
 - Impedir o cadastro de produtos duplicados
@@ -86,7 +86,7 @@ Encerra o programa através do comando `break`.
 
 ---
 
-## 👨‍💻 Autor
+## Autor
 
 **Daniel Carlos**
 
